@@ -1,0 +1,75 @@
+a
+{
+	color: #008080;
+}
+
+a:hover
+{
+	color: gray;
+	text-decoration: none;
+}
+
+body 
+{
+	background-image: url(../img/dark_geometric.png);
+	color: #8a8a8a;
+}
+
+#container
+{
+	width: 940px;
+	height: auto;
+	margin: auto;
+}
+
+.delete a
+{
+	color: #E31230;
+	margin-left: 50px;
+}
+
+#footer
+{
+	padding-top: 15px;
+	margin-top: 15px;
+	text-align: right;
+}
+
+h1
+{
+	font-size: 24px;
+	font-weight: 100;
+}
+
+.leftPadded
+{
+	padding-left: 97px;
+	
+}
+
+legend
+{
+	color: #8a8a8a;
+	font-size: 25px;
+	height: 50px;
+}
+
+#logoutBtn
+{
+	float: right;
+}
+
+#message p
+{
+	margin-left: 180px;
+}
+
+#primaryFiles, #secondaryFiles, #footer
+{
+	border-top: 1px solid gray;
+}
+
+#primaryFiles p
+{
+	font-size: 24px;
+}
